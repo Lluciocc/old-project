@@ -1,0 +1,40 @@
+ARMENIENNE : Tomate, Fromage, Boeuf, Origan, Olives 
+MONTAGNARDE : Tomate, Mozzarella, Chiffonnade de jambon cru, Champignons frais, Origan, Olives
+SAVOYARDE : Crème fraîche, Fromage, Pommes de terre, Reblochon, Lardons, Origan, Olives
+ALPINE : Crème fraîche, Fromage, Pommes de terre, Reblochon, Thym, Jambon cru
+BASQUE : Tomate, Fromage, Poivrons frais, Chorizo, Crevettes, Piment Espelette doux, Origan, Olives
+TEXANE : Sauce barbecue, Boeuf épicé, Fromage cheddar, Fromage, Tomates fraîches, Oignons, Origan
+BUFFALO : Tomate, Fromage, Boeuf épicé, Poulet pané, Chorizo, Origan, Sauce Barbecue
+MARGUERITE : Tomate, Fromage, Origan, Olives
+NAPOLITAINE : Tomate, Fromage, Anchois, Origan, Olives
+SICILIENNE : Tomate, Fromage, Anchois, Câpres, Origan, Olives
+4 SAISONS : Tomate, Fromage, Artichauts, Poivrons, Origan, Olives
+ESPAGNOLE : Tomate, Fromage, Chorizo, Origan, Olives
+NEPTUNE : Tomate, Fromage, Thon, Ail, Persillade, Olives
+PAYSANNE : Tomate, Fromage, Aubergines, Origan, Olives
+CHÈVRE : Tomate, Fromage, Chèvre, Lardons, Origan, Olives
+ITALIENNE : Tomate, Mozzarella, Tomates fraîches, Basilic, Origan, Olives
+REINE : Tomate, Fromage, Jambon, Champignons frais, Origan, Olives
+ROQUEFORT : Tomate, Fromage, Roquefort, Jambon, Origan, Olives
+4 FROMAGES : Tomate, Cantal, Roquefort, Chèvre, Mozzarella, Basilic, Origan, Olives
+MEXICAINE : Tomate, Fromage, Champignons Frais, Poivrons, Poulet, Origan, Olives
+NORMANDE : Crème fraîche, Oignons, Lardons, Fromage, Origan, Olives
+OCÉANE : Tomate, Fromage, Fruits de mer, Champignons frais, Persillade, Olives
+ORIENTALE : Tomate, Fromage, Merguez, Champignons frais, Poivrons, Origan, Olives
+CALZONE (CHAUSSON) : Tomate, Fromage, Jambon, Champignons frais, Oeuf, Origan
+HAWAIENNE : Crème fraîche, Fromage, Poulet, Ananas, Poivrons, Curry, Origan, Olives
+NAPOLI : Tomates, mozzarella, tomates cerises, billes de mozzarella, basilic, origan, olives
+SAUMON : Tomate, Fromage, Saumon Fumé, Crème fraîche, Citron, Origan, Olives
+ANACAPRI : Crème fraîche, Fromage, Gorgonzola, Jambon, Ananas, Poivre concassé, Origan, Olives
+CAESAR : Crème Fraîche, poulet pané, lardons, fromage, salade iceberg, croûtons, parmesan, origan, sauce Caesar à part
+FORMAGGI : Crème fraîche, Fromage, Mozzarella, Gorgonzola, Copeaux de parmesan, Origan, Olives
+GRECQUE : Tomate, Fromage, Feta, Tomates fraîches, Oignons, Jambon, Salade, Roquette, Origan, Olives
+INDIENNE : Crème fraîche, Fromage, Poulet Tandory, Champignons frais, Poivrons, Oignon, Origan, Olives
+LIBANAISE : Tomate, Fromage, Viande de kebab, Oignons, Tomates fraîches, Piment frais, Origan, Olives
+LONDONIENNE : Tomate, Fromage, Bacon, Fromage cheddar, OEuf, Origan
+MIEL : Crème Fraîche, Fromage, Chèvre, Poulet, Miel, Origan (recette non modifiable)
+ROMAINE : Crème fraîche, Fromage, Gorgonzola, Noix, Jambon cru, Salade roquette, Origan, Huile d'olive
+THAI : Crème fraîche, Ananas curry, Fromage, Oignons frais, Poivrons frais, Crevettes curry, Sauce Thai, Origan
+TUNISIENNE : Tomate, Fromage, Thon, Pommes de terre, Câpres, OEuf, Origan, Olives
+SUPREME : Tomate, Poulet pané, fromage cheddar, Fromage, Oignons, Poivrons, Sauce salsa, Origan
+USA (PATE EPAISSE) : Tomate, Fromage, Boeuf, Poulet, Chorizo, Origan
