@@ -3,6 +3,10 @@
 ## 📌 Python  
 Mes premiers programmes Python réalisés avec la Geek School.
 
+## Autre projet python
+
+🔗 [Projet Roulette](https://github.com/Lluciocc/Roulette)
+
 ## 🌐 Site Web  
 Lors de plusieurs stages à la Geek School, j'ai participé à un projet de création de site web.  
 C'était une ébauche simple, car j'apprenais alors les bases.  
